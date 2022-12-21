@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 # file to big
 BGGdata.csv
 
 # mac specific
 .DS_Store
 
+=======
+>>>>>>> 8bf9720928da67bc4bb25a4d8afe296e3b419fa5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
