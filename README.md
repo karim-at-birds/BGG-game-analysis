@@ -8,9 +8,8 @@ Analysing a big Board Game Geek games dataset from [Kaggle](https://www.kaggle.c
 
 
 ## Motivation
-I wanted to answer 2 question.
 Are there reliable predictors for the Board Game Geek rating of a game?
-Can I identifying those special games that one either loves or hates?
+
 
 ## File Descriptions
 coming later
