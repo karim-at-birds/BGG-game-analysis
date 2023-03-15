@@ -18,4 +18,6 @@ coming later
 ## Licensing, Authors, Acknowledgements, etc.
 **pick appropiate non-commercial license**
 
-The data is hosted my [Mister Malloy](https://www.kaggle.com/seanthemalloy/) on [Kaggle](https://www.kaggle.com/datasets/seanthemalloy/board-game-geek-database/), but was pulled from [Board Game Geek](https://boardgamegeek.com/) ca. 2019. Here are the [BGG API Terms of Use](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use)
+## Data
+The data is hosted my [Mister Malloy](https://www.kaggle.com/seanthemalloy/) on [Kaggle](https://www.kaggle.com/datasets/seanthemalloy/board-game-geek-database/), but was pulled from [Board Game Geek](https://boardgamegeek.com/) ca. 2019. The data is described [here](https://boardgamegeek.com/wiki/page/BGG_XML_API2#toc3)
+Here are the [BGG API Terms of Use](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use)
